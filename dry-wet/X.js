@@ -1,4 +1,4 @@
-// a set of buttons to control a form
+// a set of buttons to control a form written out fully
 
 <div>
   <button type="submit" className="button button__submit" onClick={(e) => {
