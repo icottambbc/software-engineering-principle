@@ -20,3 +20,5 @@ const arabic = compose(
   (aa) => aa.map((a) => a2r[a]),
   (s) => s.split("")
 );
+
+console.log(arabic('XXI'));
