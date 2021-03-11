@@ -5,9 +5,7 @@
 </div>
 
 
-// Yangified:
 const Button = ({type, onClick, isDisabled, ref, customSVG, size}) => {
-  // don't define these until you actaully need them!
   const customSVG;
   const isDisabled = false;
   const ref;
